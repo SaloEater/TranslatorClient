@@ -1,0 +1,12 @@
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\bin\Release\TranslatorClient.exe.config
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\bin\Release\TranslatorClient.exe
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\bin\Release\TranslatorClient.pdb
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\obj\Release\TranslatorClient.Form1.resources
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\obj\Release\TranslatorClient.Properties.Resources.resources
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\obj\Release\TranslatorClient.csproj.GenerateResource.Cache
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\obj\Release\TranslatorClient.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\obj\Release\TranslatorClient.exe
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\obj\Release\TranslatorClient.pdb
+C:\Users\Tom\source\repos\TranslatorClient\TranslatorClient\obj\Release\TranslatorClient.csprojResolveAssemblyReference.cache
